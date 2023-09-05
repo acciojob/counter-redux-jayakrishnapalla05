@@ -7,7 +7,7 @@ export const increment=()=>{
         type:INCREMENT
   }
 }
-export const DECREMENT=()=>{
+export const decrement=()=>{
     return {
         type:DECREMENT
   }
